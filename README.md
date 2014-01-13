@@ -1,4 +1,4 @@
-ffos-hello-world
-================
+hello-world
+==========
 
-Hello World Firefox os
+simple "hello world" app 
