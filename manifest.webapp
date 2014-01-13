@@ -1,0 +1,9 @@
+{ 
+"name": "hello-world", 
+"developer": { "name": "Vladimir Dimitrov", "url": "http://vladko.org" },
+"description": "simple hello wolrd", 
+"launch_path": "/index.html", 
+"icons": {
+	"60": "/img/icon60.png",
+	"128": "/img/icon128.png" }
+}
