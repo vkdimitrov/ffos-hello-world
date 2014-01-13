@@ -1,4 +1,4 @@
-hello-world
+hello-world Firefox OS
 ==========
 
-simple "hello world" app 
+simple "hello world" app for Firefox OS
